@@ -8,7 +8,7 @@ The project focuses on:
 - Image optimization and fast loading
 
 ## Live Demo
-👉 [View Website Here](https://your-deployed-link.com)
+👉 [View Website Here](https://phnglh.github.io/tesla-landing/)
 
 ## Features
 - Multiple pages (Home, Model S, Model 3, Solar Roof)
